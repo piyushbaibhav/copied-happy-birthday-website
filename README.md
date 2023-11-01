@@ -1,6 +1,6 @@
 # Happy Birthday Web Page
 
-A simple and interactive web page designed to celebrate a special birthday with animations, music, and a heartfelt birthday message.
+A simple and interactive web page designed to celebrate a special birthday with animations, music, and a heartfelt birthday message. <br/>
 I didn't write code for this website solely on my own but I fixed a lot of bugs, gave styling, fixed JS issues, and made sure it was working.
 
 ## Table of Contents
