@@ -161,3 +161,10 @@ img {
   -webkit-filter: saturate(0.2) opacity(0.5);
   cursor: not-allowed;
 }
+
+
+.ynot button a {
+    display: block;
+    width: 100%;
+    line-height: 50px;
+}
