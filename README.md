@@ -1,7 +1,7 @@
 # Happy Birthday Web Page
 
 A simple and interactive web page designed to celebrate a special birthday with animations, music, and a heartfelt birthday message.
-I did'nt made this website on my own but I fixed a lot of bugs, gave styling, fixed js issues and made sure it was working.
+I didn't write code for this website solely on my own but I fixed a lot of bugs, gave styling, fixed JS issues, and made sure it was working.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -21,12 +21,12 @@ The "Happy Birthday Web Page" is a digital birthday greeting for someone special
 - **Confetti Animation**: A canvas element generates dynamic confetti, adding a festive touch to the celebration.
 - **Birthday Message**: The web page features a birthday message with a typewriter effect. It wishes the recipient a happy birthday and a day filled with joy and love.
 - **Cake Animation**: An animated cake image is displayed on the page.
-- **Balloons**: The web page is adorned with a decorative border of balloons for a visually appealing celebration.
+- **Balloons**: The web page is adorned with a decorative balloons border for a visually appealing celebration.
 
 ## Usage
 
 1. Open the HTML file in a web browser to experience the birthday greeting.
-2. Click the "Start" button to initiate the animations and birthday message, creating a lively and cheerful celebration.
+2. Click the "Start" button to initiate the animations and birthday messages, creating a lively and cheerful celebration.
 
 ## File Structure
 
@@ -35,7 +35,7 @@ The "Happy Birthday Web Page" is a digital birthday greeting for someone special
 - `style.css`: Custom CSS for additional styling.
 - `music.mp3`: Background music file, which can be replaced with a preferred audio track.
 - `img/`: Directory containing images used in the web page, including the banner, cake, and balloons.
-- `js/`: Directory containing JavaScript files responsible for different functionalities.
+- `js/`: Directory containing JavaScript files for different functionalities.
   - `jquery.js`: Includes the jQuery library for various dynamic elements.
   - `typed.min.js`: Utilizes the Typed.js library to create the typewriter effect in the birthday message.
   - `script.js`: Custom JavaScript code that controls the web page's functionality.
