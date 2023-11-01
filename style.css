@@ -168,3 +168,22 @@ img {
     width: 100%;
     line-height: 50px;
 }
+
+.ynot button a {
+    /* background-color: #f4e603; */
+    /* box-shadow: 0 5px 0 #87822a; */
+    color: white;
+    /* padding: 1em 1.5em; */
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+  
+  /* .ynot button a:hover {
+    background-color: #ddd985;
+  } */
+  
+  .ynot button a:active {
+    box-shadow: none;
+    top: 5px;
+  }
